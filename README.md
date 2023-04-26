@@ -1,5 +1,6 @@
 ## lost ark merchant api
 ## [修改] 
+### ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=intAV.lost-ark&left_color=red&right_color=green) 
 #### 发现一个新的API 可以监控任意大区任意时刻的流浪商人 
 #### websocket API :wss://api.lf.group/subscriptions?new-merchants=server
 #### payload1：{"type":"connection_init","payload":{}}
