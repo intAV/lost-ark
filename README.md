@@ -1,3 +1,4 @@
+## lost ark merchants api
 ## [修改] 
 #### 发现一个新的API 可以监控任意大区任意时刻的流浪商人 
 #### websocket API :wss://api.lf.group/subscriptions?new-merchants=server
