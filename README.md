@@ -16,6 +16,4 @@
 
 ### ![QQ截图20230428224010](https://user-images.githubusercontent.com/38396198/235179110-f7783f8c-5e71-4e3e-abcd-df480da3e9d2.png)
 
-### ![QQ截图20221215131917](https://user-images.githubusercontent.com/38396198/207778940-d7b3e1c5-9461-4778-ab48-2928b716153c.png)
-
 
